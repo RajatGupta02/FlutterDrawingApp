@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'DrawingScreen.dart';
-
+import 'package:gradient_app_bar/gradient_app_bar.dart';
 import 'package:flutter/rendering.dart';
 import 'package:flutter/services.dart';
 import 'package:image_gallery_saver/image_gallery_saver.dart';
@@ -9,7 +9,7 @@ import 'package:permission_handler/permission_handler.dart';
 
 
 void main() {
-  runApp(MyApp());
+  runApp(MyApp());  //*******************NEW MODIFICATION****************
 
 }
 
@@ -70,8 +70,12 @@ class _MyHomePageState extends State<MyHomePage> {
   Widget build(BuildContext context) {
 
     return Scaffold(
-      appBar: AppBar(
-        title: Text(widget.title),
+      appBar: GradientAppBar(
+        title: Text('DELINEATE_IT', style: TextStyle( letterSpacing: 5.0),textAlign: TextAlign.center ,),
+        titleSpacing: 10.0,
+        backgroundColorStart: Color(0xFF136a8a),
+        // backgroundColorEnd: Color(0xFF267871),
+        backgroundColorEnd: Colors.black,
       ),
       body: _buildListView(context),
 
