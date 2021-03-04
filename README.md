@@ -9,11 +9,16 @@
 Screenshots of App: 
 
 
+| col 1      | col 2      |
+|------------|-------------|
+| <img src="https://user-images.githubusercontent.com/72070007/110010001-cbc68d00-7d43-11eb-8b87-544caec5d31d.jpeg" width="250"> | <img src="https://user-images.githubusercontent.com/72070007/110010009-ce28e700-7d43-11eb-9966-2cd4dca1d524.jpeg" width="250"> 
 
-![WhatsApp Image 2021-03-04 at 11 39 04 PM (2)](https://user-images.githubusercontent.com/72070007/110010001-cbc68d00-7d43-11eb-8b87-544caec5d31d.jpeg)
-![WhatsApp Image 2021-03-04 at 11 39 04 PM (1)](https://user-images.githubusercontent.com/72070007/110010009-ce28e700-7d43-11eb-9966-2cd4dca1d524.jpeg)
-![WhatsApp Image 2021-03-04 at 11 39 04 PM](https://user-images.githubusercontent.com/72070007/110010026-d3863180-7d43-11eb-972e-f43ec9bfe214.jpeg)
-![WhatsApp Image 2021-03-04 at 11 39 04 PM (3)](https://user-images.githubusercontent.com/72070007/110010036-d719b880-7d43-11eb-8aac-fcb6fca2e384.jpeg)
+
+| col 1      | col 2      |
+|------------|-------------|
+| <img src="https://user-images.githubusercontent.com/72070007/110010026-d3863180-7d43-11eb-972e-f43ec9bfe214.jpeg" width="250"> | <img src="https://user-images.githubusercontent.com/72070007/110010036-d719b880-7d43-11eb-8aac-fcb6fca2e384.jpeg" width="250"> 
+
+
 
 
 
