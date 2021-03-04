@@ -1,6 +1,7 @@
 # Flutter Drawing App 
-
 Changed App Icon:
+
+
 ![ic_launcher](https://user-images.githubusercontent.com/72070007/110005718-d03c7700-7d3e-11eb-8940-dfee0fa15c58.png)
 
 Screen Recording: 
@@ -16,5 +17,5 @@ https://user-images.githubusercontent.com/72070007/110006426-a899de80-7d3f-11eb-
   3. Clear Screen Button
   4. Save Button which saves the drawing to Firebase server.
 
-The apk file has been uploaded along with other files (***NOTE : For devices with screen size less than 5 inches there may be a pixel overflow on the drawing screen in the apk uploaded however the code in ```DrawingScreen.dart``` has been updated to support a;; screen sizes***)
+The apk file has been uploaded along with other files (***NOTE : For devices with screen size less than 5 inches there may be a pixel overflow on the drawing screen in the apk uploaded however the code in ```DrawingScreen.dart``` has been updated to support all screen sizes***)
 
