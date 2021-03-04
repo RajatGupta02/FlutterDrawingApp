@@ -203,7 +203,7 @@ class DrawingArea extends StatefulWidget{
                      ),
 
 
-                     SizedBox(height: 10,),
+                     SizedBox(height: 0.01* height,),
 
                      Container(
                        width: 0.96*width,
