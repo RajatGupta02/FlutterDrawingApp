@@ -9,7 +9,6 @@
 Screenshots of App: 
 
 
-| col 1      | col 2      |
 |------------|-------------|
 | <img src="https://user-images.githubusercontent.com/72070007/110010001-cbc68d00-7d43-11eb-8b87-544caec5d31d.jpeg" width="250"> | <img src="https://user-images.githubusercontent.com/72070007/110010009-ce28e700-7d43-11eb-9966-2cd4dca1d524.jpeg" width="250"> 
 
